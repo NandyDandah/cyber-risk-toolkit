@@ -1,0 +1,11 @@
+asset,threat,vulnerability,likelihood,impact
+Customer Database,Phishing Attack,No Multi-Factor Authentication,4,5
+Employee Laptops,Malware Infection,Outdated Antivirus,3,4
+Company Website,DDoS Attack,No Traffic Filtering,3,5
+Payroll System,Insider Threat,Excessive User Privileges,2,5
+Email System,Business Email Compromise,Weak Password Policy,4,4
+Cloud Storage,Data Leak,Misconfigured Access Permissions,4,5
+Wi-Fi Network,Unauthorized Access,Weak Encryption,3,4
+Backup Server,Ransomware,No Offline Backup,4,5
+CRM System,Credential Theft,No Login Monitoring,3,5
+Finance System,Fraudulent Transaction,Lack of Approval Controls,3,5

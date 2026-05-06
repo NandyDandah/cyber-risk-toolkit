@@ -1,0 +1,11 @@
+asset,threat,vulnerability,likelihood,impact,risk_score,risk_level,recommendation
+Customer Database,Phishing Attack,No Multi-Factor Authentication,4,5,20,Critical,"Implement security awareness training, email filtering, and multi-factor authentication."
+Employee Laptops,Malware Infection,Outdated Antivirus,3,4,12,High,"Update antivirus tools, patch systems regularly, and restrict suspicious downloads."
+Company Website,DDoS Attack,No Traffic Filtering,3,5,15,High,"Use traffic filtering, rate limiting, and DDoS protection services."
+Payroll System,Insider Threat,Excessive User Privileges,2,5,10,Medium,"Apply least privilege access, monitor user activity, and review permissions regularly."
+Email System,Business Email Compromise,Weak Password Policy,4,4,16,High,"Implement security awareness training, email filtering, and multi-factor authentication."
+Cloud Storage,Data Leak,Misconfigured Access Permissions,4,5,20,Critical,"Review cloud permissions, enable access logging, and apply data loss prevention controls."
+Wi-Fi Network,Unauthorized Access,Weak Encryption,3,4,12,High,Perform a detailed security review and implement appropriate technical and administrative controls.
+Backup Server,Ransomware,No Offline Backup,4,5,20,Critical,"Maintain offline backups, patch systems, and conduct ransomware response drills."
+CRM System,Credential Theft,No Login Monitoring,3,5,15,High,"Enforce strong password policies, multi-factor authentication, and login monitoring."
+Finance System,Fraudulent Transaction,Lack of Approval Controls,3,5,15,High,"Introduce approval workflows, transaction monitoring, and segregation of duties."
